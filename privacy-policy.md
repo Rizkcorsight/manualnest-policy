@@ -18,7 +18,7 @@ ManualNest does not make network calls in the course of normal use. The only exc
 
 ## Analytics, Tracking, and Ads
 
-ManualNest does not include third-party analytics, advertising SDKs, tracking, or cross-app tracking. There is no telemetry built into the app.
+ManualNest does not include third-party analytics, advertising, tracking, or cross-app tracking. There is no usage reporting built into the app.
 
 ## Exports and Sharing
 
