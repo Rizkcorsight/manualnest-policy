@@ -1,6 +1,6 @@
 # ManualNest Privacy Policy
 
-Effective date: May 10, 2026
+Effective date: June 27, 2026
 
 ManualNest is an offline-first app that helps you keep owner manuals, warranty details, receipts, model and serial numbers, parts/filter sizes, and maintenance schedules for the things you own.
 
@@ -39,3 +39,11 @@ For privacy questions, contact Rizk Corsight through the company website: https:
 ## Changes
 
 If this policy changes, the updated version will be posted with a new effective date.
+
+<!-- store-audit-2026-06-27-start -->
+## Store Listing Alignment
+
+**Checked 2026-06-27.** This page was compared with the public App Store and Google Play listings. Where a store privacy or data-safety label was visible, it said the developer does not collect user data.
+
+**Accurate app behavior:** Manuals, receipts, warranty dates, maintenance notes, photos, PDFs, scans, local AI/manual parsing output, reminders, backups, and exports stay local. Saved external links open in the browser you choose; store systems handle purchase, restore, refund, receipt, or price display where applicable. No accounts, ads, analytics, tracking, or developer backend are used.
+<!-- store-audit-2026-06-27-end -->
