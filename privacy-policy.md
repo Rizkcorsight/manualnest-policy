@@ -40,10 +40,10 @@ For privacy questions, contact Rizk Corsight through the company website: https:
 
 If this policy changes, the updated version will be posted with a new effective date.
 
-<!-- store-audit-2026-06-27-start -->
+<!-- store-audit-2026-06-30-start -->
 ## Store Listing Alignment
 
-**Checked 2026-06-27.** This page was compared with the public App Store and Google Play listings. Where a store privacy or data-safety label was visible, it said the developer does not collect user data.
+**Checked 2026-06-30.** This page was compared with the public App Store and Google Play listings. Where a store privacy or data-safety label was visible, it said the developer does not collect user data.
 
 **Accurate app behavior:** Manuals, receipts, warranty dates, maintenance notes, photos, PDFs, scans, local AI/manual parsing output, reminders, backups, and exports stay local. Saved external links open in the browser you choose; store systems handle purchase, restore, refund, receipt, or price display where applicable. No accounts, ads, analytics, tracking, or developer backend are used.
-<!-- store-audit-2026-06-27-end -->
+<!-- store-audit-2026-06-30-end -->
