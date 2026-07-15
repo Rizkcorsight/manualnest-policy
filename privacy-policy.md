@@ -1,3 +1,8 @@
+
+<!-- store-access-2026-07-15-start -->
+> **Store access and purchases — updated July 15, 2026:** ManualNest is free to download and includes a local 3-day full-access trial. After the trial, continued access requires one one-time unlock at the price displayed by Apple App Store or Google Play. There is no subscription, automatic renewal, or recurring charge. [Read this disclosure in every supported language](store-access.html).
+<!-- store-access-2026-07-15-end -->
+
 # ManualNest Privacy Policy
 
 Effective date: June 27, 2026
