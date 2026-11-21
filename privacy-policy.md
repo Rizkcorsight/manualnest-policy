@@ -12,7 +12,7 @@
 
 # ManualNest Privacy Policy
 
-Effective date: June 27, 2026
+Effective date: November 21, 2026
 
 ManualNest is an offline-first app that helps you keep owner manuals, warranty details, receipts, model and serial numbers, parts/filter sizes, and maintenance schedules for the things you own.
 
@@ -26,15 +26,15 @@ If you choose to attach a photo, receipt image, or manual PDF, ManualNest stores
 
 ## Network Calls
 
-ManualNest does not make network calls in the course of normal use. The only exception is when you tap a manual URL that you yourself saved against an item — opening that link hands off to your device's default browser. That open action is initiated by you and is governed by that browser's privacy practices.
+Opening a saved link passes it to your browser. Store services can use the network to handle purchases. On Android, Google Play services can download scanning components. Google ML Kit processes document images on your device and collects technical information for diagnostics and usage analytics, including app and device information, identifiers, feature events, errors, and performance measurements. These metrics are separate from your documents.
 
 ## Analytics, Tracking, and Ads
 
-ManualNest does not include third-party analytics, advertising, tracking, or cross-app tracking. There is no usage reporting built into the app.
+ManualNest has no advertising or cross-app tracking. Google describes the Android SDK’s technical data collection in its ML Kit disclosure. [Google ML Kit data disclosure](https://developers.google.com/ml-kit/android-data-disclosure).
 
 ## Exports and Sharing
 
-You can export your saved items as JSON. You can also share an item summary as a PDF via your device's share sheet. Any exported or shared file is controlled by you and may contain the item details you entered, including model and serial numbers.
+Exports can include JSON data, PDF summaries and unencrypted ZIP archives. A service packet or backup can contain item details, serial numbers, manuals, receipts and photos. Anyone with access to an exported archive can read its contents. You choose where to save or send it and must delete exported copies separately.
 
 ## Permissions
 
@@ -51,11 +51,3 @@ For privacy questions, contact Rizk Corsight through the company website: https:
 ## Changes
 
 If this policy changes, the updated version will be posted with a new effective date.
-
-<!-- store-audit-2026-06-30-start -->
-## Store Listing Alignment
-
-**Checked 2026-06-30.** This page was compared with the public App Store and Google Play listings. Where a store privacy or data-safety label was visible, it said the developer does not collect user data.
-
-**Accurate app behavior:** Manuals, receipts, warranty dates, maintenance notes, photos, PDFs, scans, local AI/manual parsing output, reminders, backups, and exports stay local. Saved external links open in the browser you choose; store systems handle purchase, restore, refund, receipt, or price display where applicable. No accounts, ads, analytics, tracking, or developer backend are used.
-<!-- store-audit-2026-06-30-end -->
